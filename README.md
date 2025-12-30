@@ -10,4 +10,5 @@ hindi_voice3 - "Soft Hindi female voice with fully native Indian accent.Clear an
 hindi_voice4 - "Young Hindi female voice with fully native accent.Bright but controlled tone with clear Hindi phonetics.Moderate pace and smooth sentence flow.Natural, friendly delivery without interruptions."
 
 marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rural Maharashtra. Strong native pronunciation with natural rhythm and slightly rough texture. Unhurried pace with continuous speech and minimal modulation. Authentic, straightforward delivery without polish or foreign influence." 
- 
+
+ hindi_female_voice8 - "Divya speaks with a higher pitch in a clear, close environment with a very clear audio."
