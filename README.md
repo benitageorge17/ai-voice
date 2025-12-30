@@ -12,3 +12,5 @@ hindi_voice4 - "Young Hindi female voice with fully native accent.Bright but con
 marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rural Maharashtra. Strong native pronunciation with natural rhythm and slightly rough texture. Unhurried pace with continuous speech and minimal modulation. Authentic, straightforward delivery without polish or foreign influence." 
 
  hindi_female_voice8 - "Divya speaks with a higher pitch in a clear, close environment with a very clear audio."
+
+ hindi_male_voice1 - "Rohit speaks clearly and confidently with very clear audio."
