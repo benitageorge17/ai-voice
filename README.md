@@ -20,4 +20,7 @@ marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rur
  hindi_female_voice9 - " Rani speaks clearly at a slow, steady pace with a gentle uptone at sentence endings and very clear audio."
 
  marathi_male_voice1 - "Sanjay speaks calmly with forward smooth delivery and clear, uninterrupted audio."
+
+ marathi_female_voice1 - "Sunita reads the Marathi text clearly with steady pacing and slightly extended sentence endings."
+
  
