@@ -23,4 +23,7 @@ marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rur
 
  marathi_female_voice1 - "Sunita reads the Marathi text clearly with steady pacing and slightly extended sentence endings."
 
+ marathi_male_voice2 -  "Nikhil presents the text in an informative tone with controlled speed and clarity."
+
+
  
