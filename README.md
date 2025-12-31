@@ -16,4 +16,6 @@ marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rur
  hindi_male_voice1 - "Rohit speaks clearly and confidently with very clear audio."
 
  hindi_male_voice2 - "Aman speaks with a firm, steady tone and continuous delivery with very clear audio."
+
+ hindi_female_voice9 - " Rani speaks clearly at a slow, steady pace with a gentle uptone at sentence endings and very clear audio."
  
