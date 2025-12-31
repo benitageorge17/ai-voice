@@ -25,5 +25,7 @@ marathi_voice1 - "Marathi male voice with a grounded, earthy tone typical of rur
 
  marathi_male_voice2 -  "Nikhil presents the text in an informative tone with controlled speed and clarity."
 
+ marathi_female_voice2 - "Isha delivers the Marathi text with bright clarity and precise articulation."
+
 
  
